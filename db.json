@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": "1741978371093",
+      "text": "My Task 1",
+      "dueDate": "2025-04-01",
+      "priority": "Low",
+      "completed": false
+    },
+    {
+      "id": "1741978382332",
+      "text": "My Task 2",
+      "dueDate": "2025-04-04",
+      "priority": "High",
+      "completed": false
+    }
+  ]
+}
