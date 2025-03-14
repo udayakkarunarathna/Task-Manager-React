@@ -1,4 +1,6 @@
-<img src="1.jpg"/>
+<img src="1.jpg"/><br />
+<img src="2.jpg"/><br />
+<img src="3.jpg"/><br />
 Task Manager
 A simple and intuitive Task Manager application built with React and JSON Server. This application allows users to manage their tasks efficiently by adding, editing, deleting, and marking tasks as completed. It also supports features like due dates, task priorities, and filtering tasks by completion status.
 
